@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello Blogosphere!
+---
 
 First post coming (hopefully) in mid July
 
